@@ -1,0 +1,19 @@
+body{background-image: url("https://media.istockphoto.com/id/1307898821/photo/blurred-gym-interior-space-background.jpg?s=612x612&w=0&k=20&c=zZqxSXqSnH4nYf5uYgYIbJLoj7t0RB9mhb9ScuuvTQc=");
+background-size: cover; font-family: cursive;}
+div{display:inline-block; height:300px; width:300px; background-color: black; margin-left:60px; margin-top: 20px; border-radius: 20px;}
+#img1{background-image: url("https://img.freepik.com/free-photo/powerful-stylish-bodybuilder-with-tattoo-his-arm-doing-exercises-with-dumbbells-isolated-dark-background_613910-5209.jpg?t=st=1718260824~exp=1718264424~hmac=2cd4a3771275be1803a9f6c54896db20c09908499cbb03f83130b432043a5059&w=996");
+background-size: cover;}
+#img2{background-image: url("https://img.freepik.com/free-photo/health-club-without-people-with-exercise-equipment_637285-8446.jpg?t=st=1718260893~exp=1718264493~hmac=95294518899c356b8787911c5251e62530ccd243745824bcc5d07b70b947f081&w=996");
+background-size: cover;}
+#img3{background-image: url("https://media1.tenor.com/m/9-bFBCBJhCAAAAAC/deadlift-michalisbon.gif");
+background-size: cover;}
+#img4{background-image: url("https://musclemagfitness.com/wp-content/uploads/smith-bench-press-exercise.gif");
+background-size: contain;}
+#img5{background-image: url("https://img.freepik.com/free-photo/woman-helping-man-gym_23-2149627073.jpg?t=st=1718261092~exp=1718264692~hmac=4c2f8d005ee0ba8ab76bb0bbafce3d33c178f38e349b66aa390a83daa67774bd&w=996");
+background-size: cover;}
+#img6{background-image: url("https://img.freepik.com/free-photo/confident-young-muscular-caucasian-athlete-practicing-gym-with-weights-male-model-doing-strength-exercises-training-his-upper-body-wellness-healthy-lifestyle-bodybuilding-concept_155003-28006.jpg?t=st=1718261217~exp=1718264817~hmac=9c59e04b661334e5f530b03814e8fadce7b9858e85b4a1b55fb7ea8745ab64f3&w=996");
+background-size: cover;}
+#img7{background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqA-xzOrePokYz293b_7-sMO9ovM67p3u10g&usqp=CAU");
+background-size: cover;}
+#img8{background-image: url("https://img.freepik.com/free-photo/3d-gym-equipment_23-2151114221.jpg?t=st=1718261011~exp=1718264611~hmac=2b17e06d8f9137b9b2ce8cc483d03f05362cd69af2ae0418907aaf0f45d6da8e&w=996");
+background-size: cover;}
